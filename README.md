@@ -39,7 +39,7 @@ My focus is on building dashboards, performing data analysis, and creating data-
 
 ## 📊 GitHub Stats  
 
-![](https://github-readme-stats.vercel.app/api?username=priyankakadam2314-png&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api?username=priyankakadam2314-png&show_icons=true&theme=radical) 
 
 ---
 
