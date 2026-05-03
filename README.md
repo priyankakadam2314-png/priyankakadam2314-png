@@ -35,11 +35,6 @@ My focus is on building dashboards, performing data analysis, and creating data-
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </p>
 
----
-
-## 📊 GitHub Stats  
-
-![](https://github-readme-stats.vercel.app/api?username=priyankakadam2314-png&show_icons=true&theme=radical)
 
 ---
 
