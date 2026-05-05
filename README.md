@@ -9,7 +9,7 @@ My focus is on building dashboards, performing data analysis, and creating data-
 ### 💡 Skills & Experience:
 - Python (NumPy, Pandas, Matplotlib, Seaborn)  
 - Data Cleaning & Exploratory Data Analysis (EDA)  
-- SQL for Data Querying  
+- SQL for Data Querying 
 - Data Visualization  
 
 ---
